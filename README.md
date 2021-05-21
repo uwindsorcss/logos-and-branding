@@ -19,4 +19,5 @@ Don't edit PNG or other raster file types, instead edit the vector versions of o
 - `.svg` files can be edited using the free open source software [Inkscape](https://inkscape.org/)
 - `.ai` files can also be edited using [Inkscape](https://inkscape.org/), but are meant to be edited using [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 - `.afdesign` files can be edited using [Affinity Designer](https://affinity.serif.com/en-gb/designer/)  
+
 If you're unsure which one to use, go with [Inkscape](https://inkscape.org/) as it is free.

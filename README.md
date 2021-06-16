@@ -11,9 +11,9 @@ Branding Guide and Logos for CSS
 
 ## Colour Codes
 Below are the hex codes for the various "CSS Colours":  
-- ![#005596ff](https://via.placeholder.com/15/005596ff/000000?text=+) `#005596ff`
-- ![#ffcf01ff](https://via.placeholder.com/15/ffcf01ff/000000?text=+) `#ffcf01ff`
-- ![#033b5eff](https://via.placeholder.com/15/033b5eff/000000?text=+) `#033b5eff`
+- ![#005596](https://via.placeholder.com/15/005596/000000?text=+) `#005596`
+- ![#ffcf01](https://via.placeholder.com/15/ffcf01/000000?text=+) `#ffcf01`
+- ![#033b5e](https://via.placeholder.com/15/033b5e/000000?text=+) `#033b5e`
 
 ## Want a version of our logo with a different colour or another change?
 Don't edit PNG or other raster file types, instead edit the vector versions of our logos (`.svg`, `.ai`, or `.afdesign`)  

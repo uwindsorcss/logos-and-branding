@@ -2,13 +2,13 @@
 Branding Guide and Logos for CSS
 
 ## All of our logos are available in various file formats/revisions/colours in the following folders:
-- `CSS Circle`: Contains versions of the CSS shield surrounded by a circle with the text "Computer Science Society"  
+- `CSS Circle`: versions of the CSS shield surrounded by a circle with the text "Computer Science Society"  
 - `CSS Circuit`: Contains versions of the circuit portion of the CSS shield in black and white  
 - `CSS Full Logo`: Contains versions of the classic CSS logo with the text "Computer Science Society" to the right of the CSS shield  
 - `CSS Shield`: Contains versions of the CSS shield by itself  
 - `Icon`: Contains different icons based on the CSS logo using different sizes and for different platforms  
 - `Minimized`: Contains different versions of the minimized logo as found on the CSS Wiki  
-- `Templates`: Contains different PowerPoint templates to use when making presentations for the Computer Science Society  
+- `Templates`: Contains different PowerPoint and Word templates to use when making presentations/documents for the Computer Science Society  
 - `Branding Guide (Colour Codes).pdf`: Contains the colour codes for the different colours used in the CSS logo  
 
 ## Colour Codes

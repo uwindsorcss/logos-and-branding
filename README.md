@@ -24,3 +24,9 @@ Don't edit PNG or other raster file types, instead edit the vector versions of o
 - `.afdesign` files can be edited using [Affinity Designer](https://affinity.serif.com/en-gb/designer/)  
 
 If you're unsure which one to use, go with [Inkscape](https://inkscape.org/) as it is free.
+
+## Copy and Paste Logos
+![CSS Shield](https://github.com/UWindsorCSS/logos-and-branding/blob/master/CSS%20Shield/CSS%20Logo%20Shield.png?raw=true)
+![CSS Circle](https://github.com/UWindsorCSS/logos-and-branding/blob/master/CSS%20Circle/CSS%20Circle%204K.png?raw=true)
+![CSS Full Logo](https://github.com/UWindsorCSS/logos-and-branding/blob/master/CSS%20Full%20Logo/CSS-Logo.png?raw=true)
+![CSS Full Logo White Text](https://github.com/UWindsorCSS/logos-and-branding/blob/master/CSS%20Full%20Logo/CSS%20Logo%20White%20Text.png?raw=true)

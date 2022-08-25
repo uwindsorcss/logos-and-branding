@@ -17,6 +17,11 @@ Below are the hex codes for the various "CSS Colours":
 - ![#ffcf01](https://via.placeholder.com/15/ffcf01/000000?text=+) `#ffcf01`
 - ![#033b5e](https://via.placeholder.com/15/033b5e/000000?text=+) `#033b5e`
 
+## Fonts
+Below are the different fonts used for various CSS Logos
+- CSS Circle Logo - Arial, Bold
+- CSS Full Logo - Spectral, Bold
+
 ## Want a version of our logo with a different colour or another change?
 Don't edit PNG or other raster file types, instead edit the vector versions of our logos (`.svg`, `.ai`, or `.afdesign`)  
 - `.svg` files can be edited using the free open source software [Inkscape](https://inkscape.org/)
